@@ -18,9 +18,5 @@ export default class World {
 
 
 
-
-
-
-
   }
 }
